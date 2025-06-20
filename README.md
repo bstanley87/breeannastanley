@@ -31,4 +31,4 @@ I'm a data scientist with 15+ years of experience in healthcare, including pharm
 ---
 
 ### 📫 Let’s Connect
-[LinkedIn](https://linkedin.com/in/your-profile) • [Email](mailto:yourname@gmail.com)
+[LinkedIn] (https://www.linkedin.com/in/breeannastanley/) • [Email](breeanna.stanley@yahoo.com)
