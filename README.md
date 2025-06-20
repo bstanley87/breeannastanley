@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Breeanna Stanley
 
-I'm a data scientist with 15+ years of experience in healthcare, including pharmacy, medical reception, and prior authorization coordination. I recently completed the TripleTen Data Science program and am passionate about using data to improve patient outcomes and healthcare systems.
+I'm a data scientist with 14+ years of experience in healthcare, including pharmacy, medical reception, and prior authorization coordination. I recently completed the TripleTen Data Science program and am passionate about using data to improve patient outcomes and healthcare systems.
 
 ---
 
