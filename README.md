@@ -12,14 +12,7 @@ I'm a data scientist. I have 14+ years of experience in healthcare, including ph
 ---
 
 ### 💼 Projects
-- **[Healthcare Analytics – Medication Approval Efficiency](https://github.com/yourrepo)**  
-  Used Python and pandas to analyze prior authorization trends and identify bottlenecks in medication approvals.
 
-- **[Taxi Demand Forecasting (Time Series)](https://github.com/yourrepo)**  
-  Created time series models to predict demand and optimize dispatching using lag features and AutoReg.
-
-- **[Customer Churn Prediction](https://github.com/yourrepo)**  
-  Built classification models to identify customers likely to churn and reduce attrition.
 
 ---
 
