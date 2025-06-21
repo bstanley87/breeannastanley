@@ -6,7 +6,7 @@ I'm a data scientist. I have 14+ years of experience in healthcare, including ph
 
 ### 🧠 Skills
 - **Languages & Tools**: Python, SQL, Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, Excel
-- **Tech**: Jupyter Notebooks, Tableau, Power BI, Git, GitHub
+- **Tech**: Jupyter Notebooks, GitHub
 - **Domain Expertise**: Healthcare analytics, pharmacy workflows, insurance coverage guidelines
 
 ---
