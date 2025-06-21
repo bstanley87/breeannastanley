@@ -24,4 +24,4 @@ I'm a data scientist. I have 14+ years of experience in healthcare, including ph
 ---
 
 ### 📫 Let’s Connect
-[LinkedIn] (https://www.linkedin.com/in/breeannastanley/) • [Email](breeanna.stanley@yahoo.com)
+[LinkedIn] (https://www.linkedin.com/in/breeannastanley/) • [Email] (breeanna.stanley@yahoo.com)
