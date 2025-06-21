@@ -12,7 +12,10 @@ I'm a data scientist. I have 14+ years of experience in healthcare, including ph
 ---
 
 ### 💼 Projects
-
+- https://github.com/bstanley87/Data-projects-TripleTen-/blob/main/sprint_13_project.ipynb
+- https://github.com/bstanley87/Data-projects-TripleTen-/blob/main/sprint_14_project.ipynb
+- https://github.com/bstanley87/Data-projects-TripleTen-/blob/main/sprint_15_project.ipynb
+- https://github.com/bstanley87/Data-projects-TripleTen-/blob/main/sprint_6_project.ipynb
 
 ---
 
